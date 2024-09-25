@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container h1 {
+    margin-bottom: 20px;
+    color: #007bff;
+}
+
+.input {
+    width: 250px;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.container button {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    margin-bottom: 15px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: #071cd3;
+    }
+}
