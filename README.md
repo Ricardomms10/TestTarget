@@ -1,5 +1,7 @@
 # Aplicação de Teste - Desafios com Next.js e SCSS
 
+![Texto alternativo](./public/2024-09-25-16-27-43.gif)
+
 Este é um projeto desenvolvido em Next.js com estilização em SCSS. A aplicação contém uma série de desafios com suas respectivas páginas, como:
 
 - Fibonacci
