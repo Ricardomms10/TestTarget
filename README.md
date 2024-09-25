@@ -17,7 +17,7 @@ Este é um projeto desenvolvido em Next.js com estilização em SCSS. A aplicaç
 Para iniciar a aplicação, clone o repositório e instale as dependências:
 
 ```bash
-1- git clone https://github.com/usuario/projeto-teste.git
+1- git clone https://github.com/Ricardomms10/TestTarget.git
 
 2- cd projeto-teste
 
